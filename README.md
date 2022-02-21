@@ -70,8 +70,8 @@ And it show you what happen :
   [Files Created] : elements/footer.php
   [Files Created] : .htaccess
   [Files Created] : .gitignore
-Initialized empty Git repository in C:/xampp/htdocs/Project_19022022_16482449/.git/
   [GIT INIT]
+Initialized empty Git repository in C:/xampp/htdocs/Project_19022022_16482449/.git/
   [GIT ADD ALL]
 ```
 

@@ -159,10 +159,10 @@ IF %git% == "TRUE" (
     echo "/NOT_TO_UPLOAD" >> .gitignore
     echo %space%[Files Created] : .gitignore
 
-    git init
     echo %space%[GIT INIT]
-    git add .
+    git init
     echo %space%[GIT ADD ALL]
+    git add .
 )
 ::-------------------------
 
